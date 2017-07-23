@@ -1,7 +1,7 @@
 # javascript-sessions
 We keep our session handouts here
 
-# Session 1 (babel and jest)
+# Session 1
 ## Babel
 - [Hello World](https://repl.it/JeIp/1)
 - [Scope](https://repl.it/JeK9/2)
