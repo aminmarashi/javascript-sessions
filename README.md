@@ -13,7 +13,9 @@ We keep our session handouts here
 
 ## Jest
 - [ ] [Simple example](https://repl.it/JfYM/6)
+- [ ] [Class example](https://repl.it/JfZ9/2)
 
+----
 \* Covered
 
 ## Links
