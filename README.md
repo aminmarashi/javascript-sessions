@@ -10,6 +10,7 @@ We keep our session handouts here
 - [ ] [Classes](https://repl.it/JcZi/5)
 - [ ] Standardized coding
   - [ ] [Use `semi` or not](https://repl.it/Jc2l/0)
+
 \* Covered
 
 ## Links
