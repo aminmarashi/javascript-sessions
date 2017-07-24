@@ -11,6 +11,9 @@ We keep our session handouts here
 - [ ] Standardized coding
   - [ ] [Use `semi` or not](https://repl.it/Jc2l/0)
 
+## Jest
+- [ ] [Simple example](https://repl.it/JfYM/6)
+
 \* Covered
 
 ## Links
