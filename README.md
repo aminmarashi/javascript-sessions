@@ -15,7 +15,7 @@ We keep our session handouts here
 - [ ] [Simple example](https://repl.it/JfYM/6)
 - [ ] [Class example](https://repl.it/JfZ9/2)
 - [ ] [Shopping Cart1](https://repl.it/Jf1c/2)
-- [ ] [Shopping Cart2](https://repl.it/JfZ9/4)
+- [ ] [Shopping Cart2](https://repl.it/JfZ9/5)
 
 ----
 \* Covered
