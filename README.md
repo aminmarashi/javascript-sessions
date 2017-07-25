@@ -7,7 +7,7 @@ We keep our session handouts here
 - [ ] [Simple example](https://repl.it/JfYM/6)
 - [ ] [Shopping Cart1](https://repl.it/Jf1c/2)
 - [ ] [Shopping Cart2](https://repl.it/JfZ9/5)
-- [ ] spy (`toHaveBeenCalledWith`)
+- [ ] spy (`jest.fn()`, `toHaveBeenCalledWith`)
 - [ ] promises (`rejects`, `resolves`)
 - [ ] Type checking (`expect.any`, `objectContaining`, `arrayContaining`)
 
