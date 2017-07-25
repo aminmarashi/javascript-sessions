@@ -10,7 +10,7 @@ We keep our session handouts here
 - [ ] [Shopping Cart2](https://repl.it/JfZ9/5)
 
 ## Babel
-- [ ] * [Hello World](https://repl.it/JeIp/1)
+- [ ] [Hello World](https://repl.it/JeIp/1)
 - [ ] [Scope](https://repl.it/JeK9/2)
 - [ ] [Functions](https://repl.it/JeLk/0)
 - [ ] [Arrow functions](https://repl.it/JeLh/0)
@@ -19,7 +19,8 @@ We keep our session handouts here
 - [ ] [Calling Class](https://repl.it/Jf4a/1)
 
 ----
-\* Covered
+- [X] : Covered
+- [ ] : Not Covered Yet
 
 ## Links
 - [Babel REPL](https://babeljs.io/repl)
