@@ -24,8 +24,9 @@ We keep our session handouts here
 
 ## Links
 - [Babel REPL](https://babeljs.io/repl)
-- [repl.it](https://repl.it)
-- [TC39](https://github.com/tc39/ecma262#ecmascript)
 - [Try CoffeeScript](http://decaffeinate-project.org/repl/)
 - [Try TypeScript](http://www.typescriptlang.org/play/)
 - [Try Flow](https://flow.org/try/)
+- [TC39](https://github.com/tc39/ecma262#ecmascript)
+- [Compatibility Table](http://kangax.github.io/compat-table/es6/)
+- [repl.it](https://repl.it)
