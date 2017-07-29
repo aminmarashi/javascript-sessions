@@ -32,3 +32,4 @@ We keep our session handouts here
 - [TC39](https://github.com/tc39/ecma262#ecmascript)
 - [Compatibility Table](http://kangax.github.io/compat-table/es6/)
 - [repl.it](https://repl.it)
+- [July 2017 TC39 Meeting](https://github.com/babel/proposals/issues/19)
