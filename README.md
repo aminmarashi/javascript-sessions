@@ -25,6 +25,7 @@ We keep our session handouts here
 - [ ] : Not Covered Yet
 
 ## Links
+
 - [Babel REPL](https://babeljs.io/repl)
 - [Try CoffeeScript](http://decaffeinate-project.org/repl/)
 - [Try TypeScript](http://www.typescriptlang.org/play/)
@@ -32,4 +33,11 @@ We keep our session handouts here
 - [TC39](https://github.com/tc39/ecma262#ecmascript)
 - [Compatibility Table](http://kangax.github.io/compat-table/es6/)
 - [repl.it](https://repl.it)
+
+# Session 2
+
+- [Writing tests using traffic analogy](https://github.com/aminmarashi/javascript-tutorials)
+
+## Links
+- [Unit vs Functional vs Integration](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
 - [July 2017 TC39 Meeting](https://github.com/babel/proposals/issues/19)
