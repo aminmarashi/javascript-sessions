@@ -36,7 +36,12 @@ We keep our session handouts here
 
 # Session 2
 
-- [Writing tests using traffic analogy](https://github.com/aminmarashi/javascript-tutorials)
+- [Writing tests using traffic analogy](https://github.com/aminmarashi/javascript-tutorials/tree/master/tutorials/traffic)
+
+# Session 3
+
+- [Monster fight with jest](https://github.com/aminmarashi/javascript-tutorials/tree/master/tutorials/game) - Thanks to [Negar](http://github.com/negarn/)
+- [Test coverage](https://stackoverflow.com/a/90021/3835256)
 
 ## Links
 - [Unit vs Functional vs Integration](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
